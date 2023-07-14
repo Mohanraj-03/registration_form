@@ -1,0 +1,52 @@
+#h1
+{
+    background: linear-gradient(grey,white,grey);
+    text-align: center;
+    height: 40px;
+    width: 1350px;
+    text-decoration: line-through;
+    border: 2px solid rgb(80, 88, 80);
+    margin: auto;
+    padding-top: 30px;
+    position: absolute;
+}
+#oj
+{
+    text-align: center;
+    margin-bottom: 30px;
+    position: relative;
+}
+form
+{
+    background:linear-gradient(aqua,white,aqua,white,aqua,white,aqua,white,aqua,white);
+    
+    width: 500px;
+    margin: auto;
+    margin-top: 100px;
+}
+#jkjk
+{
+    text-align: center;
+}
+#kiki
+{
+    margin-left: 210px;
+}
+#didi
+{
+    background-color: rgb(32, 252, 12);
+    width: 1250px;
+    height: 400px;
+    padding: auto;
+    padding-top: 280px;
+    padding-right: 100px;
+}
+#sss
+{
+    text-align: center;
+    background: lightgreen;
+    width: 400px;
+    margin-left: 450px;
+    border: 5px solid darkorange;
+    border-style: double;
+}
